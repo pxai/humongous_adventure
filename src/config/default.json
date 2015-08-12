@@ -1,0 +1,19 @@
+{
+    "general" : {
+      "version": "1.0.1"
+    },
+    "msg" : {
+        "welcome" : "Welcome to Humongous Adventure",
+        "bye" : "Thank you for playing Humoungous Adventure"
+        },
+    "db": {
+        "host": "localhost",
+        "port": "27017",
+        "dbname": "adventure",
+        "username" : "",
+        "password" : ""
+        },
+    "debug": {
+        "level": 0
+    }
+}
