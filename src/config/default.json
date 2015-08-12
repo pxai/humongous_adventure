@@ -1,13 +1,14 @@
 {
     "general" : {
-      "version": "1.0.1"
+      "version": "1.0.1",
+      "adventurer" : "Mooshoo"
     },
     "msg" : {
         "welcome" : "Welcome to Humongous Adventure",
         "bye" : "Thank you for playing Humoungous Adventure"
         },
     "db": {
-        "host": "localhost",
+        "host": "127.0.0.1",
         "port": "27017",
         "dbname": "adventure",
         "username" : "",
